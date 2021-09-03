@@ -1,2 +1,2 @@
-# stickypets
+# StickyPets
 StickyPets website
